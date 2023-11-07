@@ -61,6 +61,10 @@
       "name": "HL2 Weapon pickup"
     },
     {
+      "filename": "Half_Life 2-HL2 Medkit sound.mp3",
+      "name": "HL2 Medkit pickup"
+    },
+    {
       "filename": "star-wars-droid-roger-roger.mp3",
       "name": "Star Wars Roger roger"
     },
@@ -75,6 +79,27 @@
     {
       "filename": "warcraft-3-jsem hotov.mp3",
       "name": "Warcraft 3 Jsem hotov"
+    },
+    {
+      "filename": "ETC_MoshPit_Upgrade_GTR01.mp3",
+      "name": "HotS ETC Mosh Pit"
+    },
+    {
+      "filename": "ETC_Moshpit_RockNeverDies01.mp3",
+      "name": "HotS ETC Mosh Pit 2"
+    },
+    {
+      "filename": "ETC_TurnedUpToEleven.mp3",
+      "name": "HotS ETC Turned Up To Eleven"
+    },
+    {
+      "filename": "HotS_ForcesOfEvil.mp3",
+      "name": "HotS Forces Of Evil"
+    }
+    ,
+    {
+      "filename": "HotS_VictoryThroughRighteousness.mp3",
+      "name": "HotS Victory Through Righteousness"
     }
   ]
 }

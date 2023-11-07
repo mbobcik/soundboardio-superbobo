@@ -1,9 +1,9 @@
 <p align="center">
   <img src="/icons/icon.svg?sanitize=true" width="80">
-  <h1 align="center">SoundBoardio plugin: Lakatoš</h1>
+  <h1 align="center">SoundBoardio plugin: SuperBobo</h1>
 </p>
 
-> First plugin for [SoundBoardio.com](https://soundboardio.com) app ever!
+> Plugin for [SoundBoardio.com](https://soundboardio.com) app!
 
 ## Creating Sound Board
 

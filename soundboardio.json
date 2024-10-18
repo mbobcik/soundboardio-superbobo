@@ -7,7 +7,7 @@
     "url": "https://github.com/mbobcik"
   },
   "color": "#ff6000",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "lang": "cs",
   "rootUrl": "sounds/",
   "icons": [
@@ -25,81 +25,137 @@
   ],
   "tiles": [
     {
-      "name": "AoE Under Attack",
-      "filename": "aoe_under_attack_horn.mp3"
+      "name": "Under Attack",
+      "filename": "aoe_under_attack_horn.mp3",
+      "tags": [
+        "AOE"
+      ]
     },
     {
       "filename": "counter-strike-cs-radio-enemy-spotted.mp3",
-      "name": "CS Enemy spotted"
+      "name": "Enemy spotted",
+      "tags": [
+        "CS"
+      ]
     },
     {
       "filename": "gtav-death-sound-effect.mp3",
-      "name": "GTA V Death"
+      "name": "GTA V Death",
+      "tags": [
+        "GTA"
+      ]
     },
     {
       "filename": "hl2-combine-radio-sound.mp3",
-      "name": "HL2 Combine radio"
+      "name": "Combine radio",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "hl2-cp-overwatch-announcement.mp3",
-      "name": "HL2 Combine overwatch announcement"
+      "name": "Combine overwatch announcement",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "hl2-death-beeping.mp3",
-      "name": "HL2 death beeping"
+      "name": "death beeping",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "hl2-major-fracture-detected.mp3",
-      "name": "HL2 Major fracture detected"
+      "name": "Major fracture detected",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "hl2-pick-up-that-can.mp3",
-      "name": "HL2 Pick up that can"
+      "name": "Pick up that can",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "hl2-weapon-gun-pickup.mp3",
-      "name": "HL2 Weapon pickup"
+      "name": "Weapon pickup",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "Half_Life 2-HL2 Medkit sound.mp3",
-      "name": "HL2 Medkit pickup"
+      "name": "Medkit pickup",
+      "tags": [
+        "HL2"
+      ]
     },
     {
       "filename": "star-wars-droid-roger-roger.mp3",
-      "name": "Star Wars Roger roger"
+      "name": "Roger roger",
+      "tags": [
+        "Star Wars"
+      ]
     },
     {
       "filename": "warcraft-3-ve-vzduchu-citim-magii.mp3",
-      "name": "Warcraft 3 Ve vzduchu cítím magii..."
+      "name": "Ve vzduchu cítím magii...",
+      "tags": [
+        "Warcraft 3"
+      ]
     },
     {
       "filename": "warcraft3-zase-prace.mp3",
-      "name": "Warcraft 3 Zase práce?"
+      "name": "Zase práce?",
+      "tags": [
+        "Warcraft 3"
+      ]
     },
     {
       "filename": "warcraft-3-jsem hotov.mp3",
-      "name": "Warcraft 3 Jsem hotov"
+      "name": "Jsem hotov",
+      "tags": [
+        "Warcraft 3"
+      ]
     },
     {
       "filename": "ETC_MoshPit_Upgrade_GTR01.mp3",
-      "name": "HotS ETC Mosh Pit"
+      "name": "Mosh Pit",
+      "tags": [
+        "HotS ETC"
+      ]
     },
     {
       "filename": "ETC_Moshpit_RockNeverDies01.mp3",
-      "name": "HotS ETC Mosh Pit 2"
+      "name": "Mosh Pit 2",
+      "tags": [
+        "HotS ETC"
+      ]
     },
     {
       "filename": "ETC_TurnedUpToEleven.mp3",
-      "name": "HotS ETC Turned Up To Eleven"
+      "name": "Turned Up To Eleven",
+      "tags": [
+        "HotS ETC"
+      ]
     },
     {
       "filename": "HotS_ForcesOfEvil.mp3",
-      "name": "HotS Forces Of Evil"
-    }
-    ,
+      "name": "Forces Of Evil",
+      "tags": [
+        "HotS"
+      ]
+    },
     {
       "filename": "HotS_VictoryThroughRighteousness.mp3",
-      "name": "HotS Victory Through Righteousness"
+      "name": "Victory Through Righteousness",
+      "tags": [
+        "HotS"
+      ]
     }
   ]
 }
